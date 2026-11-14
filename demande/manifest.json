@@ -1,0 +1,1 @@
+{"id":"fr.maison.damien.demande","version":"1.0.0","name":"Demande spéciale (maison)","description":"Une liste a la demande (saga, filmographie...), dans l ordre voulu. Remplie par Claude, publiee par Home Assistant.","resources":["catalog"],"types":["movie","series"],"catalogs":[{"type":"movie","id":"demande","name":"Demande spéciale"}],"behaviorHints":{"configurable":false}}
